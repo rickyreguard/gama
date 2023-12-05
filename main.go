@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/rsc/quote"
+	"rsc.io/quote"
 )
 
 func main() {
